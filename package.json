@@ -1,7 +1,7 @@
 {
   "name": "prachit-gharat-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/PrachitGharat/prachitgharat.github.io.git",
+  "homepage": "https://github.com/PrachitGharat/portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

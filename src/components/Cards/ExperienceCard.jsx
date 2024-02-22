@@ -6,6 +6,7 @@ const Document = styled.img`
     height: 70px;
     width: fit-content;
     background-color: #000;
+    
     border-radius: 10px;
     &:hover{
         cursor: pointer;
@@ -16,6 +17,7 @@ const Document = styled.img`
 const Description = styled.div`
     width: 100%;
     font-size: 15px;
+    
     font-weight: 400;
     color: ${({ theme }) => theme.text_primary + 99};
     margin-bottom: 10px;
@@ -77,7 +79,7 @@ const Top = styled.div`
 
 const Image = styled.img`
     height: 50px;
-    background-color: #000;
+    background-color: #FFF;
     border-radius: 10px;
     margin-top: 4px;
     @media only screen and (max-width: 768px){
